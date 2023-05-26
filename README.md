@@ -1,6 +1,9 @@
 # Convo AI
 Created this application using Open AI's API ChatGPT 3.5 Turbo.
 
+## Appstore
+https://apps.apple.com/app/convo-ai-ai-chat-companion/id6449303873
+
 ## Features
 - Add unlimited chats
 - Delete Chats
