@@ -5,12 +5,10 @@ Created this application using Open AI's API ChatGPT 3.5 Turbo.
 https://apps.apple.com/app/convo-ai-ai-chat-companion/id6449303873
 
 ## Features
-- Add unlimited chats
-- Delete Chats
-- Mantain History on core data and cloudKit.
-- Profile Information
-- Speech Synthesis 
-- Chat Search
+- Instant VPN Configurations
+- Customization Made Easy
+- Copy and Share Configurations
+- QR Code Sharing
 
 
 ## Preview
@@ -24,9 +22,5 @@ https://apps.apple.com/app/convo-ai-ai-chat-companion/id6449303873
 
 
 ## Technologies
-- SwiftUI
-- MVVM
-- Core Data
-- Cloud kit
-- App In purchase
-- RevenueCat
+- UIKit
+- Objective - C
