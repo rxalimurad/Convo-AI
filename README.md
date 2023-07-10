@@ -23,5 +23,9 @@ https://apps.apple.com/app/convo-ai-ai-chat-companion/id6449303873
 
 
 ## Technologies
-- UIKit
-- Objective - C
+- SwiftUI
+- MVVM
+- Core Data
+- Cloud kit
+- App In purchase
+- RevenueCat
